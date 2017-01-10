@@ -26,7 +26,7 @@ name: 陈奕龙
 
 twitter: [@zixun_](https://twitter.com/zixun_)
 
-email: chenyl.exe@didichuxing.com
+email: chenyl.exe@gmail.com
 
 ## License
 
