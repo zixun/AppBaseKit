@@ -1,5 +1,5 @@
 PODS:
-  - AppBaseKit (0.2.2)
+  - AppBaseKit (1.0.0)
 
 DEPENDENCIES:
   - AppBaseKit (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AppBaseKit: dfde967037a788a713f0040cf7fba391c8a6773d
+  AppBaseKit: cd98040692b30d0409f09381757c1efe182f89dc
 
-PODFILE CHECKSUM: 2a83357147041de47a0ca39bfaddcfa7a454da81
+PODFILE CHECKSUM: 8a853ffe17a4d1653d2262436b766298a0c916e8
 
 COCOAPODS: 1.5.0
