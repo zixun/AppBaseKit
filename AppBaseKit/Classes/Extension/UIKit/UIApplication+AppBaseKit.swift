@@ -18,7 +18,7 @@ extension UIApplication {
             return self.keyWindow
         }
         
-        guard delegate.responds(to: Selector("window")) else {
+        guard delegate.responds(to: #selector(getter: UIApplicationDelegate.window)) else {
             return self.keyWindow
         }
         
