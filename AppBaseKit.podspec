@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AppBaseKit'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A handy kit of Swift extensions and wrapped class to boost your productivity.'
 
 # This description is used to generate tags and improve search results.
